@@ -2,6 +2,7 @@
 # Extend
 # ------
 # jQuery's extend function adapted to use Meteor's Match lib
+# also converted to CoffeeScript...I know, right?!
 # * * * * * * * * * * * * * * * * * * * * * * * *
 @extend = ->
   options = undefined
